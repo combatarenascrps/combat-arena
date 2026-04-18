@@ -1,4 +1,4 @@
-# Combat Arena Script: Infinite Stamina, Auto Spin , Kill Aura
+# Combat Arena Script: Infinite Stamina, Auto Spin, Kill Aura
 
 ![Downloads](https://img.shields.io/badge/Downloads-250K+-blue?style=for-the-badge&logo=github)
 ![User Rating](https://img.shields.io/badge/User%20Rating-4.63%2F5-gold?style=for-the-badge&logo=star)
